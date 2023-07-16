@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @th3bossc
-- 👀 I’m interested in competitive programming and deep learning 
-- 🌱 I’m currently learning DSA 
+- 👋 Hi, I’m Diljith P D
+- 👀 I'm enthusiastic about deep learning and full stack web development
 - 📫 Studying in NIT, Calicut 
 
